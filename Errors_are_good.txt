@@ -1,0 +1,14 @@
+Type of error:
+NameError
+
+Filepath of where error happened:
+Users/ossahota/.rvm/rubies/ruby-2.5.1/bin/
+
+Line of the error:
+from (irb):1
+
+What the error means:
+There is no class DockingStation
+
+One way of solving error:
+Create a DockingStation class
