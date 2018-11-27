@@ -1,0 +1,18 @@
+Objects                   Messages
+Person
+Bike                      Is Bike Working?
+Docking Station           Release Bike
+
+
+Nouns:
+Person
+Bike
+Docking Station
+
+Verbs:
+Use
+Release
+Use*
+See
+
+Person (use a good bike)--> Bike (Release)--> Docking Station
